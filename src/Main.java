@@ -3,7 +3,7 @@ public class Main {
         int a, b;
         a = 1;
         b = 7;
-        int soma = a + b;
+        int soma = a * b;
         System.out.println(soma);
     }
 }
